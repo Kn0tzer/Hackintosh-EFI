@@ -1,4 +1,7 @@
 # Hackintosh-EFI
+## Download:
+https://github.com/Kn0tzer/Hackintosh-EFI/releases/download/EFI/EFI.zip
+
 ## Specs:
 <p><b>CPU:</b> Intel i7 6700k (Skylake)<br>
 <b>SMBios:</b> Spoofed to Kaby Lake - 1259000 - (iMac19,1)<br>
