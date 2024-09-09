@@ -11,16 +11,16 @@
 <b>Bluetooth:</b> Intel (?)<br>
 <b>MacOS Version:</b> Sonoma/Sequoia (Read Sequoia support information below)</p><br>
 <br>
-## Features:<br>
+# Features:<br>
 <p><b>Wireless Network:</b> Yes<br>
 <b>Bluetooth:</b> Yes<br>
-<b>Hardware Acceleration/Correct iGPU Memory:</b> Yes<br>
-<b>Works smoothly</b> (No major lag or things being noticably impossible): Yes<br>
-<b>OpenCanopy</b> (Startup GUI): Yes<br>
+<b>Hardware Acceleration:</b> Yes<br>
+<b>No major lag:</b> Yes<br>
+<b>Startup GUI (OpenCanopy):</b> Yes<br>
 <b>Debug Information:</b> Disabled<br>
 <b>Recovery/MacOS Installer:</b> Disabled (Download it yourself)</p><br>
 <br>
-## Sequoia Support<br>
+# Sequoia Support<br>
 <p><b>Last Update: September 9th, 2024</b><br>
 <b>Bootable:</b> Yes (No changes needed)<br>
 <b>Wireless Network:</b> Yes, BUT - Need to replace Airportltlwm Kext with either a future version, or use Heliport and Ltlwm standalone which is confirmed to work.<br>
