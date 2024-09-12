@@ -27,7 +27,8 @@ https://github.com/Kn0tzer/Hackintosh-EFI/releases/download/EFI/EFI.zip
 
 ## Sequoia Support
 <p><b>Last Update: September 9th, 2024</b><br>
-<b>Bootable:</b> Yes (No changes needed)<br>
+<b>Bootable:</b> Yes (No changes needed<b>*</b>)<br>
 <b>Wireless Network:</b> Yes, BUT - Need to replace Airportltlwm Kext with either a future version, or use Heliport and Ltlwm standalone which is confirmed to work.<br>
 <b>Bluetooth:</b> No - Future tools will likely be available<br>
+<b>*</b> Bluetoolfixup.kext may need to be disabled while updating
 No other changes are needed to update to Sequoia</p><br>
