@@ -27,5 +27,5 @@ https://github.com/Kn0tzer/Hackintosh-EFI/releases/download/EFI/EFI.zip
 <b>Bootable:</b> Yes (No changes needed)<br>
 <b>Bluetooth:</b> No - Future tools will likely be available<br>
 <b>iServices:</b> No - Future tools will likely be available<br>
-<b>WiFi:</b> Yes - Install <a href="https://github.com/OpenIntelWireless/HeliPort">Heliport</a> once in MacOS, or use a future version of <a href="https://github.com/OpenIntelWireless/itlwm/releases">Airportltlwm</a> (Such as <a href="https://github.com/Lorys89/itlwm/releases">this</a>, which is currently in alpha)<br>
+<b>WiFi:</b> Yes - Install <a href="https://github.com/OpenIntelWireless/HeliPort">Heliport</a> once in MacOS, or use a future version of <a href="https://github.com/OpenIntelWireless/itlwm/releases">Airportltlwm</a> (Such as <a href="https://github.com/Lorys89/itlwm/releases">this</a>, which is unofficial and currently in alpha)<br>
 </p>
