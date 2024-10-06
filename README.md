@@ -19,7 +19,7 @@ https://github.com/Kn0tzer/Hackintosh-EFI/releases/download/EFI/EFI.zip
 <b>Startup GUI (OpenCanopy):</b> Yes<br>
 <b>USB Mapping:</b> No (Unneeded)<br>
 <b>Debug Information:</b> Disabled<br>
-<b>MacOS Recovery/Installer:</b> Removed (Download it yourself)</p><br>
+<b>MacOS Recovery/Installer:</b> Removed (Download it yourself <a href="https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html#making-the-installer">here</a>)</p><br>
 
 ## Sequoia Support
 <p><b>Last Update: October 6th, 2024</b><br>
