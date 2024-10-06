@@ -14,6 +14,7 @@ https://github.com/Kn0tzer/Hackintosh-EFI/releases/download/EFI/EFI.zip
 ## Features:
 <p><b>WiFi:</b> Yes<br>
 <b>Bluetooth:</b> Yes<br>
+<b>iServices:</b> Yes<br>
 <b>Hardware Acceleration:</b> Yes - No noticeable lag<br>
 <b>Startup GUI (OpenCanopy):</b> Yes<br>
 <b>USB Mapping:</b> No (Unneeded)<br>
@@ -21,10 +22,10 @@ https://github.com/Kn0tzer/Hackintosh-EFI/releases/download/EFI/EFI.zip
 <b>MacOS Recovery/Installer:</b> Removed (Download it yourself)</p><br>
 
 ## Sequoia Support
-<p><b>Last Update: September 9th, 2024</b><br>
+<p><b>Last Update: October 6th, 2024</b><br>
 <br>
-<b>Bootable:</b> Yes (No changes needed<b>*</b>)<br>
+<b>Bootable:</b> Yes (No changes needed)<br>
 <b>Bluetooth:</b> No - Future tools will likely be available<br>
-<b>Wireless Network:</b> Yes - Replace Airportltlwm.kext with Heliport and Ltlwm (Confirmed working), or use a future version of Airportltlwm<br>
-<b>* Bluetoolfixup.kext</b> is useless and should be removed since it may cause problems while installing Sequoia.<br>
-No other changes needed to update to Sequoia</p><br>
+<b>iServices:</b> No - Future tools will likely be available<br>
+<b>WiFi:</b> Yes - Install [Heliport](https://github.com/OpenIntelWireless/HeliPort) once in MacOS, or use a future version of [Airportltlwm](https://github.com/OpenIntelWireless/itlwm/releases) (Such as [this](https://github.com/Lorys89/itlwm/releases), which is currently in alpha)<br>
+</p>
