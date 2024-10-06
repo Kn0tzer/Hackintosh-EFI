@@ -1,6 +1,7 @@
 # Hackintosh-EFI
 ## Download:
-https://github.com/Kn0tzer/Hackintosh-EFI/releases/download/EFI/EFI.zip
+<a href="https://github.com/Kn0tzer/Hackintosh-EFI/releases/download/EFI/EFI.Sonoma.zip">Sonoma download</a><br>
+<a href="https://github.com/Kn0tzer/Hackintosh-EFI/releases/download/EFI/EFI.Sequoia.zip">Sequoia download</a>
 
 ## Specs:
 <b>MacOS Version:</b> Sonoma/Sequoia (Read Sequoia Support below)
