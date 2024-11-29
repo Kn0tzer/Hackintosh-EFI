@@ -1,5 +1,6 @@
 # Hackintosh-EFI
 ## Download:
+Unrelated note - Creating a <a href="https://oneclick-macos-simple-kvm.notaperson535.is-a.dev/docs/start-here/">Hackintosh VM</a> is and always will be easier than setting up a hackintosh. I learned the hard way, so maybe you won't have to.<br><br>
 <a href="https://github.com/Kn0tzer/Hackintosh-EFI/releases/download/EFI/EFI.Sonoma.zip">Sonoma download</a><br>
 <a href="https://github.com/Kn0tzer/Hackintosh-EFI/releases/download/EFI/EFI.Sequoia.zip">Sequoia download</a>
 
@@ -20,7 +21,7 @@
 <b>Startup GUI (OpenCanopy):</b> Yes<br>
 <b>USB Mapping:</b> No (Unneeded)<br>
 <b>Debug Information:</b> Disabled<br>
-<b>MacOS Recovery/Installer:</b> Removed for storage space (Download it yourself <a href="https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html">here</a> - Use iMac19,1 SMBIOS)</p><br>
+<b>MacOS Recovery/Installer:</b> Removed for storage space and kinda legal reasons (Download it yourself <a href="https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html">here</a> - Use iMac19,1 SMBIOS)</p><br>
 
 ## Sequoia Support
 <p><b>Last Update: October 6th, 2024</b><br>
