@@ -4,6 +4,8 @@ Unrelated note - Creating a <a href="https://oneclick-macos-simple-kvm.notaperso
 <a href="https://github.com/Kn0tzer/Hackintosh-EFI/releases/download/EFI/EFI.Sonoma.zip">Sonoma download</a><br>
 <a href="https://github.com/Kn0tzer/Hackintosh-EFI/releases/download/EFI/EFI.Sequoia.zip">Sequoia download</a>
 
+⭐❓
+
 ## Specs:
 <b>MacOS Version:</b> Sonoma/Sequoia (Read Sequoia Support below)
 <p><b>CPU:</b> Intel i7 6700k (Skylake)<br>
