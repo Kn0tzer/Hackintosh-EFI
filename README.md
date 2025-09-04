@@ -1,33 +1,23 @@
 # Hackintosh-EFI
-## Download:
-Unrelated note - Creating a <a href="https://oneclick-macos-simple-kvm.notaperson535.is-a.dev/docs/start-here/">Hackintosh VM</a> is and always will be easier than setting up a hackintosh. I learned the hard way, so maybe you won't have to.<br><br>
-<a href="https://github.com/Kn0tzer/Hackintosh-EFI/releases/download/EFI/EFI.Sonoma.zip">Sonoma download</a><br>
-<a href="https://github.com/Kn0tzer/Hackintosh-EFI/releases/download/EFI/EFI.Sequoia.zip">Sequoia download</a>
 
-## Specs:
-<b>MacOS Version:</b> Sonoma/Sequoia (Read Sequoia Support below)
-<p><b>CPU:</b> Intel i7 6700k (Skylake)<br>
-<b>SMBios:</b> Spoofed to Kaby Lake (12590000),(iMac19,1)<br>
-<b>iGPU:</b> Intel HD Graphics 530(dGPU unused by Hackintosh)<br>
-<b>SSD:</b> CT1000BX500SSD1<br>
-<b>WiFi:</b> Intel Dual Band Wireless-AC 7265<br>
-<b>Bluetooth:</b> Intel</p>
+## Download
+[Sonoma download](https://github.com/Kn0tzer/Hackintosh-EFI/releases/download/EFI/EFI.Sonoma.zip)  
+[Sequoia download](https://github.com/Kn0tzer/Hackintosh-EFI/releases/download/EFI/EFI.Sequoia.zip)
 
-## Features:
-<p><b>WiFi:</b> Yes<br>
-<b>Bluetooth:</b> Yes<br>
-<b>iServices:</b> Yes<br>
-<b>Hardware Acceleration:</b> Yes - No noticeable lag<br>
-<b>Startup GUI (OpenCanopy):</b> Yes<br>
-<b>USB Mapping:</b> No (Unneeded)<br>
-<b>Debug Information:</b> Disabled<br>
-<b>MacOS Recovery/Installer:</b> Removed for storage space and kinda legal reasons (Download it yourself <a href="https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html">here</a> - Use iMac19,1 SMBIOS)</p><br>
+## Info
+**Last Update:** October 6th, 2024  
+**Version:** Sonoma/Sequoia  
+**CPU:** Intel i7 6700k (Skylake) - Spoofed to Kaby Lake (12590000), (iMac19,1)  
+**iGPU:** Intel HD Graphics 530  
+**WiFi:** Intel Dual Band Wireless-AC 7265  
+**Bluetooth:** Intel  
 
-## Sequoia Support
-<p><b>Last Update: October 6th, 2024</b><br>
-<br>
-<b>Bootable:</b> Yes (No changes needed)<br>
-<b>Bluetooth:</b> No - Future tools will likely be available<br>
-<b>iServices:</b> No - Future tools will likely be available<br>
-<b>WiFi:</b> Yes - Install <a href="https://github.com/OpenIntelWireless/HeliPort">Heliport</a> once in MacOS, or use a future version of <a href="https://github.com/OpenIntelWireless/itlwm/releases">Airportltlwm</a> (Such as <a href="https://github.com/Lorys89/itlwm/releases">this</a>, which is unofficial and currently in alpha)<br>
-</p>
+## Features
+**WiFi:** Sonoma: Yes (If using Sequoia, install [Heliport](https://github.com/OpenIntelWireless/HeliPort) in MacOS)  
+**Bluetooth:** Yes (Sonoma only)  
+**iServices:** Yes (Sonoma only)  
+**Hardware Acceleration:** Yes  
+**OpenCanopy:** Yes  
+**USB Mapping:** No  
+**Debug Info:** Disabled  
+**Installer:** Removed - [Download](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html) - iMac19,1  
